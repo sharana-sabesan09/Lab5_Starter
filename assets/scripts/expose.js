@@ -70,7 +70,7 @@ function init() {
       const jsConfetti = new JSConfetti();
       jsConfetti.addConfetti({
         confettiColors: [
-          '#ff0a54', '#ff477e', '#ff7096', '#ff85a1', '#fbb1bd', '#f9bec7',
+          '#890aff', '#346eec', '#3d9725', '#fff700', '#ff9d00', '#f43a3a',
         ],
       })
     }
